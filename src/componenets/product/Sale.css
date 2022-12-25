@@ -1,0 +1,16 @@
+.saleitem {
+  width: 100%;
+  position: relative;
+}
+
+.saleitem span {
+  position: absolute;
+  top: 5px;
+  right: 11px;
+  color: white;
+  font-size: large;
+  font-weight: 700;
+  background-color: black;
+  padding: 3px 7px;
+  border-radius: 3px;
+}
