@@ -25,9 +25,6 @@ function App() {
         <Cart cartcount={data} modifycart={setdata} />
         <Mainitem cartcount={data} modifycart={setdata} />
         <Popular cartcount={data} modifycart={setdata} />
-        {/* {[...Array(10).keys()].map((i) => {
-          return <Sale cartcount={data} modifycart={setdata} />;
-        })} */}
       </div>
       <Footer />
     </div>
